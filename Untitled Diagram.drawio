@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="344" dy="165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -165,7 +165,7 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;id=&quot;1.4.1&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;T&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ext=&quot;&lt;/span&gt;L&#39;application doit gérer l&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;es inscriptions et validee les&amp;nbsp; équipes&lt;/span&gt;&lt;/div&gt;" id="aKO-nOTtExuXH8D4YMzO-71">
           <mxCell style="text;whiteSpace=wrap;html=1;fontFamily=Georgia;verticalAlign=middle;align=center;fontSize=4;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="570" y="280" width="140" as="geometry" />
+            <mxGeometry x="570" y="290" width="140" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="aKO-nOTtExuXH8D4YMzO-72" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -193,9 +193,39 @@
             <mxPoint x="840" y="224" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;id=&quot;1.4&quot;,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Text=&quot;Notification des participants (débuts de matchs, résultats)&lt;/div&gt;&lt;/div&gt;" id="aKO-nOTtExuXH8D4YMzO-77">
+        <UserObject label="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;id=&quot;1.4.2&quot;,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Text=&quot;Notification des participants (débuts de matchs, résultats)&lt;/div&gt;&lt;/div&gt;" id="aKO-nOTtExuXH8D4YMzO-77">
           <mxCell style="text;whiteSpace=wrap;html=1;fontFamily=Georgia;verticalAlign=middle;align=center;fontSize=4;fontColor=default;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="695" y="234" width="165" as="geometry" />
+            <mxGeometry x="695" y="240" width="165" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="aKO-nOTtExuXH8D4YMzO-78" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="151" as="sourcePoint" />
+            <mxPoint x="840" y="151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aKO-nOTtExuXH8D4YMzO-79" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=default;fillColor=#FFF58E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;&lt;&lt;requirement&gt;&gt;&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;b&amp;quot;,&amp;quot;v&amp;quot;:true,&amp;quot;e&amp;quot;:15},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;f&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;Gentium Basic&amp;quot;,&amp;quot;e&amp;quot;:15},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fc&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;Bold&amp;quot;,&amp;quot;e&amp;quot;:15},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fid&amp;quot;,&amp;quot;v&amp;quot;:653,&amp;quot;e&amp;quot;:15},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:15},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:8.88888888888889,&amp;quot;e&amp;quot;:15}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;" id="aKO-nOTtExuXH8D4YMzO-80">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontFamily=Georgia;verticalAlign=middle;align=center;fontSize=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="750" y="136" width="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;organisation&amp;nbsp; des tournois sportif&amp;nbsp;&lt;/b&gt;" id="aKO-nOTtExuXH8D4YMzO-81">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontFamily=Georgia;verticalAlign=middle;align=center;fontSize=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="720" y="143" width="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="aKO-nOTtExuXH8D4YMzO-82" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="153" as="sourcePoint" />
+            <mxPoint x="840" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 4px;&quot;&gt;id=&quot;1.4.3&quot;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 4px;&quot;&gt;Text=&quot;Générer automatiquement les calendriers et les matchs grâce à un algorithme d’arbitrage.&quot;&lt;/font&gt;&lt;/b&gt;" id="aKO-nOTtExuXH8D4YMzO-83">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontFamily=Georgia;verticalAlign=middle;align=left;fontSize=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="720" y="172" width="120" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
