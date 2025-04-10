@@ -1,22 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="633" dy="-760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="-299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.49;exitY=0.821;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-1" target="Hz0r1GJ9_ltTa88L3Xgl-3" edge="1">
+        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.49;exitY=0.821;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-1" target="Hz0r1GJ9_ltTa88L3Xgl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=default;fontColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="425" y="1100" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-3" target="Hz0r1GJ9_ltTa88L3Xgl-6" edge="1">
+        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-3" target="Hz0r1GJ9_ltTa88L3Xgl-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-3" value="login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-3" value="login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="385" y="1180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-6" value="loged in?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-6" value="&lt;span style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; letter-spacing: -0.4px; text-align: left; white-space: pre;&quot;&gt;Connecté?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="405" y="1230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-7" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-6" edge="1">
@@ -28,12 +28,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-8" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-6" target="x7ulBtDoPjCledtimS2O-2" edge="1">
+        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-8" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;fontColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-6" target="x7ulBtDoPjCledtimS2O-2" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="445" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-14" edge="1">
+        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="1150" as="targetPoint" />
             <Array as="points">
@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-18" target="Hz0r1GJ9_ltTa88L3Xgl-14" edge="1">
+        <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" parent="1" source="Hz0r1GJ9_ltTa88L3Xgl-18" target="Hz0r1GJ9_ltTa88L3Xgl-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="595" y="1225" />
@@ -72,7 +72,7 @@
         <mxCell id="Hz0r1GJ9_ltTa88L3Xgl-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="1220" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="x7ulBtDoPjCledtimS2O-2" value="Admin ?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="x7ulBtDoPjCledtimS2O-2" value="Admin ?" style="rhombus;whiteSpace=wrap;html=1;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="405" y="1310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x7ulBtDoPjCledtimS2O-3" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="x7ulBtDoPjCledtimS2O-2" parent="1">
@@ -84,18 +84,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x7ulBtDoPjCledtimS2O-6" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x7ulBtDoPjCledtimS2O-2">
+        <mxCell id="x7ulBtDoPjCledtimS2O-6" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7ulBtDoPjCledtimS2O-2" target="x7ulBtDoPjCledtimS2O-8">
           <mxGeometry x="-0.5385" relative="1" as="geometry">
-            <mxPoint x="240" y="1360" as="targetPoint" />
-            <mxPoint x="495" y="1340" as="sourcePoint" />
+            <mxPoint x="-70" y="1355" as="targetPoint" />
+            <mxPoint x="95" y="1325" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="240" y="1330" />
+              <mxPoint x="405" y="1325" />
+              <mxPoint x="-70" y="1325" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x7ulBtDoPjCledtimS2O-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="1350" width="100" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x7ulBtDoPjCledtimS2O-8" value="&lt;span style=&quot;color: rgb(152, 195, 121); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; font-weight: 400; letter-spacing: -0.4px; text-align: left; white-space: pre; background-color: rgb(48, 48, 46);&quot;&gt;Tableau de bord Étudiant&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1364.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7ulBtDoPjCledtimS2O-9" value="&lt;span style=&quot;color: rgb(152, 195, 121); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; font-weight: 400; letter-spacing: -0.4px; text-align: left; white-space: pre; background-color: rgb(48, 48, 46);&quot;&gt;Rejoindre équipe&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="1490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7ulBtDoPjCledtimS2O-10" value="&lt;span style=&quot;color: rgb(152, 195, 121); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; font-weight: 400; letter-spacing: -0.4px; text-align: left; white-space: pre; background-color: rgb(48, 48, 46);&quot;&gt;Consulter notifications&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="1490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7ulBtDoPjCledtimS2O-11" value="&lt;span style=&quot;color: rgb(152, 195, 121); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; font-weight: 400; letter-spacing: -0.4px; text-align: left; white-space: pre; background-color: rgb(48, 48, 46);&quot;&gt;Rechercher tournois&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="1490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7ulBtDoPjCledtimS2O-12" value="&lt;span style=&quot;color: rgb(152, 195, 121); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; font-weight: 400; letter-spacing: -0.4px; text-align: left; white-space: pre; background-color: rgb(48, 48, 46);&quot;&gt;Créer équipe&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7ulBtDoPjCledtimS2O-13" value="&lt;span style=&quot;color: rgb(152, 195, 121); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; font-weight: 400; letter-spacing: -0.4px; text-align: left; white-space: pre; background-color: rgb(48, 48, 46);&quot;&gt;Réserver terrain&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7ulBtDoPjCledtimS2O-14" value="&lt;span style=&quot;color: rgb(152, 195, 121); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 14px; font-weight: 400; letter-spacing: -0.4px; text-align: left; white-space: pre; background-color: rgb(48, 48, 46);&quot;&gt;Consulter horaires gym&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=default;fillColor=#ffffc0;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1490" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
